@@ -1,5 +1,6 @@
 # Guess The Number
 ![GitHub top language](https://img.shields.io/github/languages/top/markraiter/guessing_game)
+
 This is a simple command-line game written in Rust. The game generates a random number between 1 and 100, and your task is to guess it!
 
 ## How to Play
